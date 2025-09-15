@@ -1,0 +1,71 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ConstructorDemo2",
+            "request": "launch",
+            "mainClass": "ConstructorDemo2",
+            "projectName": "unit_1_b08019b"
+        },
+        {
+            "type": "java",
+            "name": "InheritanceDemo",
+            "request": "launch",
+            "mainClass": "InheritanceDemo",
+            "projectName": "unit_1_b08019b"
+        },
+        {
+            "type": "java",
+            "name": "Inheritancedemo2",
+            "request": "launch",
+            "mainClass": "Inheritancedemo2",
+            "projectName": "unit_1_b08019b"
+        },
+        {
+            "type": "java",
+            "name": "JavaBasics",
+            "request": "launch",
+            "mainClass": "JavaBasics",
+            "projectName": "unit_1_b08019b"
+        },
+        {
+            "type": "java",
+            "name": "StaticDemo1",
+            "request": "launch",
+            "mainClass": "StaticDemo1",
+            "projectName": "unit_1_b08019b"
+        },
+        {
+            "type": "java",
+            "name": "StaticDemo2",
+            "request": "launch",
+            "mainClass": "StaticDemo2",
+            "projectName": "unit_1_b08019b"
+        },
+        {
+            "type": "java",
+            "name": "add",
+            "request": "launch",
+            "mainClass": "add",
+            "projectName": "unit_1_b08019b"
+        },
+        {
+            "type": "java",
+            "name": "corporateemployee",
+            "request": "launch",
+            "mainClass": "corporateemployee",
+            "projectName": "unit_1_b08019b"
+        }
+    ]
+}
